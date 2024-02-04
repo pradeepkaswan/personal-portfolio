@@ -36,7 +36,7 @@ const title = "pradeepkaswan • music";
     {
       artists.map(({ name, url, image, followers }) => (
         <div class="flex flex-row items-center space-x-4">
-          <img src={image} alt={name} class="w-16 h-16" />
+          <img src={image} alt={name} class="w-16 h-16 rounded-md" />
           <div class="flex flex-col">
             <Link href={url}>
               <h3 class="font-semibold text-neutral-100">{name}</h3>
