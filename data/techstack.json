@@ -1,0 +1,50 @@
+{
+	"Development": [
+		{
+			"category": "Languages",
+			"skills": ["C & C++", "Python", "HTML & CSS", "JavaScript", "TypeScript"]
+		},
+		{
+			"category": "Databases & Query Languages",
+			"skills": ["MySQL", "Mongo DB", "GraphQL (Query Language)", "SQL"]
+		},
+		{
+			"category": "Libraries & Frameworks",
+			"skills": [
+				"shadcn",
+				"React",
+				"Redux",
+				"TailwindCSS",
+				"styled-components",
+				"Next.js"
+			]
+		},
+		{
+			"category": "Platforms",
+			"skills": ["Github", "Vercel"]
+		},
+		{
+			"category": "Tools",
+			"skills": ["Git", "Vite", "Postman", "Postman", "Figma"]
+		}
+	],
+	"Design": [
+		{
+			"category": "Design",
+			"skills": [
+				"UI Design",
+				"UX Design & Research",
+				"Design Systems",
+				"Design Thinking"
+			]
+		},
+		{
+			"category": "Tools",
+			"skills": ["Figma", "Adobe XD"]
+		},
+		{
+			"category": "UX Psychology 101",
+			"skills": ["Hick's Law", "Fitt's Law", "Miller's Law", "Zeigarnik Effect"]
+		}
+	]
+}
