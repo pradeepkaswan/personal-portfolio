@@ -4,22 +4,40 @@
 		"description": "I've worked with startups & companies as a freelancer & intern",
 		"details": [
 			{
-				"experienceTitle": "Web Intern",
+				"experienceTitle": "Open Source Contributor,
 				"experienceDescription": [
 					"I created a lot of beautiful components using react, nextjs, and scss to make the product more user friendly; unitylabs offers a suite of managed cloud based infrastructure & platform solutions for lead generation, web scraping, and data analysis.",
 					"I developed components that directly interface with the backend APIs using tables and charts in dashboard pages ",
 					"Throughout the internship, I have gained a lot of knowledge and made several valuable contributions."
 				],
 				"experienceOrg": {
-					"name": "Webisean",
-					"link": "#",
-					"websiteDisplayName": "#"
+					"name": "Twenty",
+					"link": "https://twenty.com",
+					"websiteDisplayName": "Twenty"
 				},
 				"experienceStatus": {
-					"startAt": "Feb 2022",
-					"endAt": "May 2022"
+					"startAt": "Nov 2024",
+					"endAt": "June 2025"
+				}
+			},
+			{
+				"experienceTitle": "AI Engineer Intern,
+				"experienceDescription": [
+					"I created a lot of beautiful components using react, nextjs, and scss to make the product more user friendly; unitylabs offers a suite of managed cloud based infrastructure & platform solutions for lead generation, web scraping, and data analysis.",
+					"I developed components that directly interface with the backend APIs using tables and charts in dashboard pages ",
+					"Throughout the internship, I have gained a lot of knowledge and made several valuable contributions."
+				],
+				"experienceOrg": {
+					"name": "CredArtha",
+					"link": "https://credartha.com",
+					"websiteDisplayName": "CredArtha"
+				},
+				"experienceStatus": {
+					"startAt": "July 2025",
+					"endAt": ""
 				}
 			}
 		]
-	}
+	},
+	
 ]
